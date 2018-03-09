@@ -36,8 +36,8 @@ X-Cobra|3DoF controller or Flip Controller
 
 
 # Directory Description
-* **Demo**  	  ：Runnable demo that works on major HMDs
-* **Document\Flip** ：Documentations
+* **Demo**  	  ：Runnable demo that works on Android
+* **Document\Flip** ：Documentation
 * **Tools**：Tools required for Android platforms 
 * **Unity**：Homido Flip Controller Unity SDK  
 
@@ -62,7 +62,7 @@ Steps：
 
 3) Install Demo Applications
 
-### 1 Install BTConfig
+### 1 Install Homido-Flip Connect
 1.1 Install the following apks on Android phone:
 > - [Homido-Flip_Connect.apk](./../../Tools/Homido-Flip_Connect.apk): Controller pairing tool
 > - [DeviceTest.apk](./../../Demo/DeviceTest[v1.0.0].apk)：A Flip testing tool
@@ -72,7 +72,7 @@ Steps：
 
 2.1 Put batteries into the controller, hold down `Home` button to turn on controller.
 
-2.2 Turn on BLE feature on the phone and open BTConfig Application.
+2.2 Turn on BLE feature on the phone and open Homido-Flip Connect Application.
 
 
 <div align = center>
