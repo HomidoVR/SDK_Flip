@@ -1,5 +1,5 @@
 
-<h1>Flip Controller SDK</h1>
+<h1>Homido Flip Controller SDK</h1>
 <h3>Table of Content</h3>
 <!--toc-->
 
@@ -18,8 +18,6 @@
 		- [2 Preparation](#2-preparation)
 		- [3 SDK Setup Guide](#3-sdk-setup-guide)
 		- [4 Scripting Guide](#4-scripting-guide)
-	- [Cardboard(TBD)](#cardboard)
-	- [Android Native(TBD)](#android-nativetbd)
 
 <!-- tocstop -->
 
@@ -27,7 +25,7 @@
 # SDK Versions
 Verion | ChangeLOG | Release Date
 ---|--- |---
-v1.0.1-beta | Beta Release Flip Controller Unity3D SDK(Android/Win10)<br>Add Controller pairing tool for Android(Homido-Flip Connect_1.0.0-Flip)
+v1.0.1-beta | Beta Release Flip Controller Unity3D SDK(Android/Win10)<br>Add Controller pairing tool for Android(Homido-Flip_Connect.apk)
 
 
 # Terminologies
@@ -40,8 +38,8 @@ X-Cobra|3DoF controller or Flip Controller
 # Directory Description
 * **Demo**  	  ：Runnable demo that works on major HMDs
 * **Document\Flip** ：Documentations
-* **Tools**：Tools required for PC or Android platforms 
-* **Unity**：Flip Controller Unity SDK  
+* **Tools**：Tools required for Android platforms 
+* **Unity**：Homido Flip Controller Unity SDK  
 
 &emsp;
 # Button Mapping
@@ -66,7 +64,7 @@ Steps：
 
 ### 1 Install BTConfig
 1.1 Install the following apks on Android phone:
-> - [BTConfig.apk](./../../Tools/Homido-Flip_Connect.apk): Controller pairing tool
+> - [Homido-Flip_Connect.apk](./../../Tools/Homido-Flip_Connect.apk): Controller pairing tool
 > - [DeviceTest.apk](./../../Demo/DeviceTest[v1.0.0].apk)：A Flip testing tool
 
 &emsp;
@@ -220,8 +218,3 @@ Import "Unity SDK Plugin for Flip Controller"
 
 #### Recenter 
 * ControllerInput.Recenter()
-
-
-## Cardboard
-## Windows Natvie C++(TBD)
-## Android Native(TBD)
