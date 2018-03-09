@@ -9,7 +9,7 @@
 - [Button Mapping](#button-mapping)
 - [Setup Guide](#setup-guide)
 	- [Android Phone](#android-phone)
-		- [1 Install Homido-Flip Connect](#1-install-btconfig)
+		- [1 Install Homido-Flip Connect](#1-install-homido-flip-connect)
 		- [2 Controller pairing](#2-controller-pairing)
 		- [3 Run DeviceTest](#3-run-devicetest)
 - [Developer Guide](#developer-guide)
